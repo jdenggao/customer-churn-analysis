@@ -56,6 +56,8 @@ This project will help communications companies analyze which customers are stab
 - AUC: 0.82
 - Cross Validation (k=10): 72.5 %
 ### Model Comparison
+![image](https://github.com/jdenggao/customer-churn-analysis/assets/112433825/1aa1d473-948b-4c72-bbb3-0867d971cedc)
+
 ![image](https://github.com/jdenggao/customer-churn-analysis/assets/112433825/040402cb-6b9d-42b7-b765-aec6ef161b45)
 ## Conclusion
 - We select some features which are most related our target variable Churn.
